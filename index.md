@@ -14,5 +14,5 @@ React fast, swing hard, and become the master of the VR arena!
 - Offline gameplay
 - One-time purchase
 
-📜 [Privacy Policy](privacy-policy.txt)  
+📜 [Privacy Policy](Privacy Policy.txt)  
 📧 Contact: ravensrosedev@gmail.com
