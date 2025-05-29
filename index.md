@@ -1,8 +1,3 @@
----
-layout: default
-title: VR Paddle Master
----
-
 <img src="logo.png" alt="Logo" width="200"/>
 
 # VR Paddle Master
