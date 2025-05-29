@@ -11,7 +11,7 @@
  <li>🔻 Ball resizing</li>
  </ul>
 <p>Every round is a new challenge, and only the most skilled players will master the controlled chaos!</p>
-<h3>🎨Customize</h3>h3>
+<h3>🎨Customize</h3>
 <p>Customize your experience: change the environment, platform, ball effect, trail, hit particles, and much more. Unlock items by playing and earning points, or optionally purchase them to expand your style.</p>
 <h3>🔁 Great for:</h3>
 <ul>
