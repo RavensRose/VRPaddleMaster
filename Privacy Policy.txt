@@ -1,5 +1,5 @@
 Privacy Policy
-Last updated: May 29, 2025
+Last updated: June 17, 2025
 
 Introduction
 This Privacy Policy applies to the game VR Paddle Master. We value your privacy and want to be transparent about how we handle your information.
@@ -11,14 +11,40 @@ The game does not use analytics, advertising, or login systems, and we do not ac
 However, the game uses some platform features provided by Meta Quest:
 
 In-App Purchases (IAP): The game allows one-time purchases managed entirely by the Meta Quest platform. No payment information is accessed or stored by the developer.
+ In this process, Meta may collect and process:
+  - Oculus user ID
+  - Purchase history
+  - Transaction metadata
 
-Cloud Storage: Saved game data and player progress may be stored locally on the device and automatically backed up to Meta’s cloud storage. This data is only used by the application to function properly and is not accessed or collected by the developer.
+Cloud Storage: Saved game data and player progress may be stored locally on the device and automatically backed up to Meta’s cloud storage. This data is only used by the application to function properly and is not accessed or collected by the developer. 
+ This may involve:
+  - Device identifiers
+  - App save files
+  - Local settings or progress
+  These files are stored on the user’s device and may be synced to Meta’s servers.
 
 Internet Access and Permissions
 The game may require Internet access only to enable in-app purchases and cloud save functionality. No data is shared with the developer or third parties outside the Meta platform.
+  The game may connect to the internet solely to:
+  - Enable in-app purchase functionality
+  - Sync cloud save data
+
+Analytics
+After publishing, Meta may collect and provide aggregated, anonymized analytics to the developer through the Meta Developer Dashboard.  
+ This may include:
+  - Total number of users
+  - Regional distribution (by country)
+  - Device types and OS versions
+  - Application session duration and performance metrics
+
+These analytics do not include any personal user data or identifiable information, and are used solely to improve the application and understand general usage trends.
 
 Children’s Privacy
 VR Paddle Master does not knowingly collect personal information from children. The game may store local or cloud-based save data, but this information is not accessed or used by the developer in any way.
+Any data processed through Meta’s platform (such as save files or purchases) is managed entirely by Meta in accordance with their own policies
+
+Data Responsibility
+The developer does not access or use any personal data collected or processed by Meta services. For information on how Meta handles user data, please refer to the [Meta Privacy Policy](https://www.meta.com/legal/privacy-policy/).
 
 Changes to This Privacy Policy
 We may update this Privacy Policy in the future. Any changes will be posted on this page with a new revision date.
