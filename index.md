@@ -26,7 +26,7 @@
  <li>One-time purchase</li>
 </ul>
 <p>
-<a href="https://www.meta.com/experiences/vr/1234567890" target="_blank" style="
+<a href="https://www.meta.com/it-it/experiences/vr-paddle-master/9730277910384893/" target="_blank" style="
     display: inline-block;
     background-color: #00ff00;
     color: black;
