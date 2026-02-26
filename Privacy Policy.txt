@@ -1,50 +1,52 @@
 Privacy Policy
-Last updated: June 17, 2025
+Last updated: February 26, 2026
 
 Introduction
 This Privacy Policy applies to the game VR Paddle Master. We value your privacy and want to be transparent about how we handle your information.
 
 Data Collection
-VR Paddle Master does not collect, store, or share any personal data or usage information with the developer.
-The game does not use analytics, advertising, or login systems, and we do not access or transmit any player data to external servers.
+To provide core gameplay features and platform integration, VR Paddle Master processes specific user data through the Meta Horizon/Quest platform.
+The game uses the following platform features:
 
-However, the game uses some platform features provided by Meta Quest:
-
-In-App Purchases (IAP): The game allows one-time purchases managed entirely by the Meta Quest platform. No payment information is accessed or stored by the developer.
+In-App Purchases (IAP): The game allows one-time purchases managed through the Meta Quest platform. To process these transactions and grant access to digital content, the following data is processed:
  In this process, Meta may collect and process:
   - Oculus user ID
   - Purchase history
   - Transaction metadata
+  - App-specific entitlement data
 
-Cloud Storage: Saved game data and player progress may be stored locally on the device and automatically backed up to Meta’s cloud storage. This data is only used by the application to function properly and is not accessed or collected by the developer. 
- This may involve:
-  - Device identifiers
-  - App save files
-  - Local settings or progress
+Cloud Storage: To allow users to synchronize progress across devices, game data and player statistics are stored via Meta’s cloud services.
+This involves:
+  - Device identifiers (to ensure hardware compatibility)
+  - App save files (scores, progress, settings)
+  - Meta User ID (to associate progress with your account)
   These files are stored on the user’s device and may be synced to Meta’s servers.
 
 Internet Access and Permissions
-The game may require Internet access only to enable in-app purchases and cloud save functionality. No data is shared with the developer or third parties outside the Meta platform.
-  The game may connect to the internet solely to:
-  - Enable in-app purchase functionality
+The game requires Internet access solely to enable the platform features mentioned above. No data is transmitted to external third-party servers outside of the Meta platform ecosystem.
+The game connects to the internet to:
+  - Validate and enable in-app purchases.
   - Sync cloud save data
 
 Analytics
-After publishing, Meta may collect and provide aggregated, anonymized analytics to the developer through the Meta Developer Dashboard.  
- This may include:
+We may access aggregated and anonymized analytics provided by Meta through the Meta Developer Dashboard.
+This may include:
   - Total number of users
   - Regional distribution (by country)
   - Device types and OS versions
   - Application session duration and performance metrics
 
+Data Deletion 
+We respect your rights regarding your data. If you wish to request the deletion of your user data or game-related information, please contact us at ravensrosedev@gmail.com.
+Upon receiving your request and verifying your identity, we will coordinate with Meta's platform services to ensure the removal of your data within our control, in compliance with Meta’s data retention policies.
 These analytics do not include any personal user data or identifiable information, and are used solely to improve the application and understand general usage trends.
 
 Children’s Privacy
-VR Paddle Master does not knowingly collect personal information from children. The game may store local or cloud-based save data, but this information is not accessed or used by the developer in any way.
-Any data processed through Meta’s platform (such as save files or purchases) is managed entirely by Meta in accordance with their own policies
+VR Paddle Master complies with Meta’s age requirements for VR usage. We do not knowingly collect personal information from children. 
+Any data processed (such as save files or purchases) is managed entirely by the Meta platform in accordance with their safety and privacy policies for younger users.
 
 Data Responsibility
-The developer does not access or use any personal data collected or processed by Meta services. For information on how Meta handles user data, please refer to the [Meta Privacy Policy](https://www.meta.com/legal/privacy-policy/).
+The developer processes data strictly to provide the services requested by the user (purchases and saves). For more details on how Meta handles your information, please refer to the Meta Privacy Policy.
 
 Changes to This Privacy Policy
 We may update this Privacy Policy in the future. Any changes will be posted on this page with a new revision date.
